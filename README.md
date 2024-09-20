@@ -20,6 +20,7 @@ Então tive a ideia de desenvolver um chatBot pudesse responder a perguntas sobr
 
 ## 📦 Instalação
 
+
 1. Instalação do WAHA
 
     Você Precisa ter uma instancia do WAHA rodando localmente na sua maquina na porta 3000 para o funcionamento do projeto e consumo de todos os endpoints.
@@ -32,7 +33,7 @@ Então tive a ideia de desenvolver um chatBot pudesse responder a perguntas sobr
 2. Clone o repositório:
 
    ```bash
-   git clone <URL do repositório>
+   git clone https://github.com/iiiiiuri/LLM-Nutricional.git
    cd <nome do diretório>
    ```
 
